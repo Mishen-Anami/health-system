@@ -18,7 +18,7 @@ A RESTful API and frontend for managing health programs and clients.
 4. Run migrations: php artisan migrate
 5. Seed database: php artisan db:seed
 6. Start server: php artisan serve
-7. Access frontend at http://localhost:8000/index.html
+7. Access frontend at https://lifthawklogistics.africa/healthSystem/public/index.html
 
 ## API Documentation
 - Available at (http://localhost:8000/api/documentation) (Swagger).
